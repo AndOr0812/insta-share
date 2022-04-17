@@ -2,11 +2,11 @@
   <section id="content">
     <div class="main">
       <section id="about">
-        <h1>DeCentShear<span class="emoji">⚡</span></h1>
-        <p>File Sharing powered by IPFS Protocol. Build with <a href="https://v3.vuejs.org/" target="_blank" rel="noopener">Vue 3</a> and
+        <h1>DecShar<span class="emoji">⚡</span></h1>
+        <p>NFT Share File powered by IPFS Protocol. Build with <a href="https://v3.vuejs.org/" target="_blank" rel="noopener">Vue 3</a> and
           <a href="https://vitejs.dev/" target="_blank" rel="noopener">ViteJS</a>.</p>
         
-        <p>Build with <i-ri-heart-2-fill class="icon-love" /> by <a href="https://github.com/nyancodeid" rel="noopener" class="author">NyanCodeID</a></p>
+        <p>Build with <i-ri-heart-2-fill class="icon-love" /> by <a href="https://github.com/AndOr0812/DecShear" rel="noopener" class="author">Seif Abaza</a></p>
       </section>
     </div>
   </section>
@@ -52,7 +52,7 @@ section#content .main {
     }
 
     .icon-love {
-      color: #e91e63;
+      color: #e91e1e;
       display: inline;
       vertical-align: middle;
     }
